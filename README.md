@@ -1,39 +1,43 @@
-# 👋 ¡Hola! Soy Gabriel Tarazona Blanco
+# GABRIEL TARAZONA BLANCO
 ---
-### 👨‍💻 Estudiante de Ingeniería de Software | Desarrollador entusiasta de Python y IoT
-[![Correo Electrónico](https://img.shields.io/badge/-gtarazonabl@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gtarazonabl@gmail.com)
-[![Teléfono](https://img.shields.io/badge/-+57%20316%20052%206071-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/573160526071)
+## 👨‍💻 ESTUDIANTE DE INGENIERÍA DE SOFTWARE | DEVELOPER DE PYTHON & IOT
 
----
+[![Correo Electrónico](https://img.shields.io/badge/-gtarazonabl@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gtarazonabl@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+57%20316%20052%206071-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/573160526071)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-tarazona)
 
-## 🚀 Perfil y Motivación
+***
 
-Soy estudiante de **Ingeniería de Software** (2.º semestre) en la [Universidad de La Salle](https://www.lasalle.edu.co/).
-Mi objetivo es aplicar la lógica de programación en entornos reales, con un enfoque en el desarrollo de software y la **integración de hardware** (Arduino y IoT).
+### 🚀 PERFIL Y MOTIVACIÓN
 
----
+Soy estudiante de **Ingeniería de Software** (2.º semestre) en la Universidad de La Salle. Mi foco es la aplicación de la lógica de programación en entornos reales, con énfasis en **Python**, estructuras de datos, y la **integración de hardware (Arduino e IoT)**.
 
-## 🛠️ Stack y Habilidades Técnicas
+***
 
-| Categoría | Habilidades Principales | Iconos |
+### 🛠️ STACK TÉCNICO
+
+| CATEGORÍA | HABILIDADES PRINCIPALES |
+| :--- | :--- |
+| **LENGUAJES** | **Python** (Certificado), **C (Estructuras de Datos)**, HTML5, CSS3 |
+| **HARDWARE / IOT** | **Arduino** (Prototipado, RFID), PC Hardware, IoT |
+| **SISTEMAS** | Linux (Admin. Básica), Windows |
+
+***
+
+### 🏆 PROYECTOS DESTACADOS
+
+| ESTADO | PROYECTO | ENFOQUE |
 | :--- | :--- | :--- |
-| **Lenguajes** | **Python** (Certificado), C (Estructuras de Datos), HTML5, CSS3 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
-| **Hardware/IoT** | Prototipado con **Arduino** (Servomotores, RFID, LCD), PC Hardware, IoT | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-0078D4?style=flat-square&logo=AzureIotEdge&logoColor=white) |
-| **Sistemas** | Linux (Admin. Básica), Windows | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **[EN DESARROLLO]** | **🌍 Portafolio Web Personal** | **Despliegue con GitHub Pages** (HTML/CSS). |
+| **[PRÓXIMAMENTE]** | **🤖 Monitoreo Serial Python/Arduino** | Integración de **hardware** (Arduino) y **software** (Python). |
 
----
+***
 
-## 📚 Formación y Certificaciones Destacadas
+### 🎓 CERTIFICACIONES Y FORMACIÓN
 
+* **C Language:** Lenguaje C con Algoritmos, Estructuras de Datos (Udemy) – **50% de avance**
 * **Python:** [Introduction to Python Programming (EdX/Georgia Tech)](https://courses.edx.org/certificates/557917a3811843e8a7350b596b545a7f)
 * **IoT:** [IoT Fundamentals: Connecting Things (Cisco/Credly)](https://www.credly.com/badges/6827015d-77ee-4f70-a2aa-81ec9ba92228)
 * **Hardware:** [PC Hardware Basics (Cisco/Credly)](https://www.credly.com/badges/4d4491f7-b234-4bec-b954-8f48572b5502)
 * **Fundamentos:** Cursando **CS50: Introduction to Computer Science** (Harvard, EdX).
-* **Negocio/Cloud:** Cursando Trailhead de Salesforce (módulos administrativos y de ventas).
-
----
-
-## 🏆 Mis Proyectos
-
-* **[En Desarrollo] 🌍 Portafolio Web Personal:** Demostrando manejo de HTML/CSS y despliegue con GitHub Pages.
-* **[Próximamente] 🤖 Monitoreo Serial Python/Arduino:** Proyecto que unirá hardware (Arduino) y software (Python).
+* **Negocio:** Cursando Trailhead de Salesforce.
