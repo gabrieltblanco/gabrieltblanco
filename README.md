@@ -35,9 +35,10 @@ Soy estudiante de **Ingeniería de Software** (2.º semestre) en la Universidad 
 
 ### 🎓 CERTIFICACIONES Y FORMACIÓN
 
+
 * **C Language:** Lenguaje C con Algoritmos, Estructuras de Datos (Udemy) – **50% de avance**
 * **Python:** [Introduction to Python Programming (EdX/Georgia Tech)](https://courses.edx.org/certificates/557917a3811843e8a7350b596b545a7f)
-* **IoT:** [IoT Fundamentals: Connecting Things (Cisco/Credly)](https://www.credly.com/badges/6827015d-77ee-4f70-a2aa-81ec9ba92228)
-* **Hardware:** [PC Hardware Basics (Cisco/Credly)](https://www.credly.com/badges/4d4491f7-b234-4bec-b954-8f48572b5502)
+* **IoT:** [IoT Fundamentals: Connecting Things (Cisco/Credly)](https://www.credly.com/badges/4d4491f7-b234-4bec-b954-8f48572b5502)
+* **Hardware:** [PC Hardware Basics (Cisco/Credly)](https://www.credly.com/badges/6827015d-77ee-4f70-a2aa-81ec9ba92228)
 * **Fundamentos:** Cursando **CS50: Introduction to Computer Science** (Harvard, EdX).
 * **Negocio:** Cursando Trailhead de Salesforce.
