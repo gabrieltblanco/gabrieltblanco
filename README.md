@@ -30,6 +30,7 @@ Soy estudiante de **Ingeniería de Software** (2.º semestre) en la Universidad 
 | :--- | :--- | :--- |
 | **[EN DESARROLLO]** | **🌍 Portafolio Web Personal** | **Despliegue con GitHub Pages** (HTML/CSS). |
 | **[PRÓXIMAMENTE]** | **🤖 Monitoreo Serial Python/Arduino** | Integración de **hardware** (Arduino) y **software** (Python). |
+|**[FINALIZADO]** | **Mi Tienda - CRUD Full-Stack** | **MERN/PERN Stack** (React, Node, Express, PostgreSQL) para **Gestión de Productos y Tienda**. |
 
 ***
 
